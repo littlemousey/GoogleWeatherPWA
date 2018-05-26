@@ -96,7 +96,7 @@ body {
   transition: transform 0.233s cubic-bezier(0, 0, 0.21, 1) 0.1s;
   transition: transform 0.233s cubic-bezier(0, 0, 0.21, 1) 0.1s, -webkit-transform 0.233s cubic-bezier(0, 0, 0.21, 1) 0.1s;
   z-index: 1000; }
-  .header .headerButton {
+  /* .header .headerButton {
     width: 24px;
     height: 24px;
     margin-right: 16px;
@@ -107,11 +107,11 @@ body {
     transition: opacity 0.333s cubic-bezier(0, 0, 0.21, 1);
     border: none;
     outline: none;
-    cursor: pointer; }
-  .header #butRefresh {
+    cursor: pointer; } */
+  /* .header #butRefresh {
     background: url(/images/ic_refresh_white_24px.svg) center center no-repeat; }
   .header #butAdd {
-    background: url(/images/ic_add_white_24px.svg) center center no-repeat; }
+    background: url(/images/ic_add_white_24px.svg) center center no-repeat; } */
 
 .header__title {
   font-weight: 400;
